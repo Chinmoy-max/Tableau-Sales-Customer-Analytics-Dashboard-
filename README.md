@@ -3,6 +3,7 @@ An interactive Tableau project designed to analyze sales performance, profitabil
 
 
 Key Features
+----------------
 
 Sales Analysis: Track total sales, profit, quantity, and weekly trends.
 
@@ -19,16 +20,18 @@ Interactive Filters: Explore data by year, category, sub-category, region, state
 
 
 Tools & Technologies
+----------------------
 
-Tableau
+-- Tableau
 
-Data Visualization
+-- Data Visualization
 
-Business Intelligence
+-- Business Intelligence
 
-Sales and Customer Analytics
+-- Sales and Customer Analytics
 
 Objective
+-----------
 
 To transform sales and customer data into actionable insights that support data-driven decision-making, improve profitability, and 
 

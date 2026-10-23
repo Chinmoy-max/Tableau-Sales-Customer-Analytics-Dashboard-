@@ -36,3 +36,7 @@ Objective
 To transform sales and customer data into actionable insights that support data-driven decision-making, improve profitability, and 
 
 identify opportunities for business growth.
+
+<img width="1330" height="796" alt="Screenshot 2026-10-23 at 10 34 32 PM" src="https://github.com/user-attachments/assets/b676c260-33e0-4e4f-a9a5-ea7815349147" />
+<img width="1286" height="771" alt="Screenshot 2026-10-23 at 10 34 46 PM" src="https://github.com/user-attachments/assets/6b9ecf12-32ab-431c-a6e3-5d571ed28f1a" />
+
